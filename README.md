@@ -47,7 +47,7 @@
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=umitkengil&" alt="umitkengil" /><br/>
 </p>
 
-<p style="margin-top:160px;">
+<p style="margin-top:190px;">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umitkengil&show_icons=true&locale=en" alt="umitkengil" />
 </p>
 
