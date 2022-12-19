@@ -47,7 +47,7 @@
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=umitkengil&" alt="umitkengil" />
 </p>
 
-<p>&nbsp;
+<p>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umitkengil&show_icons=true&locale=en" alt="umitkengil" />
 </p>
 
