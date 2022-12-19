@@ -44,11 +44,11 @@
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=umitkengil&" alt="umitkengil" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=umitkengil&" alt="umitkengil" />
 </p>
 
 <p>
- &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=umitkengil&show_icons=true&locale=en" alt="umitkengil" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=umitkengil&show_icons=true&locale=en" alt="umitkengil" />
 </p>
 
 
