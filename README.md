@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Elazig</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="right">
+<p align="left">
   <a href="https://linkedin.com/in/umit-kengil" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umit-kengil" height="30" width="40" />
   </a>
@@ -45,7 +45,7 @@
 <p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=umitkengil&" alt="umitkengil" />
 </p>
-<p style="margin-top:25px;">
+<p style="margin-top:250px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=umitkengil&show_icons=true&locale=en" alt="umitkengil" />
 </p>
 
