@@ -43,11 +43,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitkengil&show_icons=true&locale=en&layout=compact" alt="umitkengil" />
 </p>
 
-<p>&nbsp;
+<p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=umitkengil&" alt="umitkengil" /><br/>
 </p>
 
-<p>
+<p style="margin-top:160px;">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umitkengil&show_icons=true&locale=en" alt="umitkengil" />
 </p>
 
