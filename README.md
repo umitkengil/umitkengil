@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ümit</h1>
 <h3 align="center">A passionate fullstack developer from Elazig</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umitkengil&label=Profile%20views&color=0e75b6&style=flat" alt="umitkengil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umitkengil" alt="umitkengil" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/umit-kengil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umit-kengil" height="30" width="40" /></a>
