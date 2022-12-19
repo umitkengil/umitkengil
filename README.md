@@ -40,11 +40,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitkengil&show_icons=true&locale=en&layout=compact" alt="umitkengil" /><br/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitkengil&show_icons=true&locale=en&layout=compact" alt="umitkengil" />
 </p>
 
 <p>&nbsp;
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=umitkengil&" alt="umitkengil" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=umitkengil&" alt="umitkengil" /><br/>
 </p>
 
 <p>
