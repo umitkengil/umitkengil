@@ -15,7 +15,7 @@
 - ❓ You can contact me about the Bootstrap and  .Net technologies stack and related technologies.  
   
 
-- ⚡ My hobbies include: Watching The Big Bang Theory...  
+- ⚡ Among my hobbies: Watching movies and documentary
   
 
 <br/>  
