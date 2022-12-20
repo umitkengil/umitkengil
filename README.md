@@ -15,7 +15,7 @@
 - ❓ You can contact me about the Bootstrap and  .Net technologies stack and related technologies.  
   
 
-- ⚡ Among my hobbies: Watching movies and documentary
+- ⚡ Among my hobbies: Watching movies and documentaries
   
 
 <br/>  
