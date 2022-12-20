@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ümit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/umitkengil/github-profilinator)  
+- 🔭 I’m currently working on .Net Technologies and RestFul Service of course Desing Patterns  
   
 
 - 🌱 I’m currently learning Docker , Kubernetes and RabbitMQ  
