@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 65%" />
 </div>  
   
 
-### <div align="center"><h1>I'm Ümit, a full-stack freelance developer since 2013 👨‍💻 working remotely since 2019 🚀</h1></div>  
+### <div align="center"><h1>I'm Ümit, a full-stack software developer since 2013 👨‍💻 working remotely since 2019 🚀</h1></div>  
   
 
 - 🔭 I’m currently working on .Net Technologies and RestFul Service of course Desing Patterns  
